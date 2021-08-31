@@ -18,7 +18,7 @@ def main():
     elif m == 4 or m == 6 or m == 9 or m == 11:
         if d == 30:
             d = 1
-            m =m + 1
+            m = m + 1
         else:
             d = d + 1
     # Mes 2 puede tener 28 o 29 dias

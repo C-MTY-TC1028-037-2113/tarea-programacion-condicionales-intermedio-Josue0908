@@ -20,7 +20,7 @@ def main():
         elif (discrim < 0):
             print("Raices complejas")
         else:
-            x=-b/(2*a)
+            x = -b/(2*a)
             print(x)
 
 if __name__ == '__main__':
